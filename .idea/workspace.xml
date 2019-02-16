@@ -2,9 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee51dcd1-eaba-4c5d-88bf-5d2ac3f30c88" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Fmodificadorestatico/classes/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Fmodificadorestatico/test/ClienteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/classes/Departamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/classes/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/classes/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Local.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Seminario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/test/AssociacaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/META-INF/JavaOnline.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/ImprimindoVariaveis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/OlaMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/RelatorioPendencia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/arrays/Arrays1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/arrays/Arrays2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/arrays/Arrays3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/arrays/Arrays4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/arrays/Arrays5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/arrays/Arrays6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/controledefluxo/ControleDeFluxo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/controledefluxo/ControleDeFluxo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/controledefluxo/ControleDeFluxo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/controledefluxo/ControleDeFluxo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/controledefluxo/ControleDeFluxo5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/controledefluxo/ControleDeFluxo6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/controledefluxo/ExercicioControleDeFluxo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/controledefluxo/ExercicioControleDeFluxo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/controledefluxo/ExercicioControleDeFluxo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/operadores/Operadores.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/operadores/OperadoresAtribuicao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/operadores/OperadoresDeComparacao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/operadores/OperadoresLogicos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/introducaoclasses/classes/Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/introducaoclasses/classes/Estudante.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/introducaoclasses/exercicios/classes/Professor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/introducaoclasses/exercicios/test/ProfessorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/introducaoclasses/test/CarroTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/introducaoclasses/test/EstudanteTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/introducaometodos/classes/Calculadora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/introducaometodos/classes/Professor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/introducaometodos/exercicios/Estudante.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/introducaometodos/exercicios/EstudanteTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/introducaometodos/test/CalculadoraTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/introducaometodos/test/ParametrosTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/introducaometodos/test/ProfessorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/sobrecargaconstrutores/classes/Estudante.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/sobrecargaconstrutores/test/EstudanteTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/sobrecargametodos/classes/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/sobrecargametodos/test/FuncionarioTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,19 +66,68 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Fmodificadorestatico/classes/Cliente.java">
+        <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Seminario.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" selection-end-column="42" />
+            <state relative-caret-position="431">
+              <caret line="61" column="38" lean-forward="true" selection-start-line="61" selection-start-column="38" selection-end-line="61" selection-end-column="38" />
+              <folding>
+                <element signature="method#Seminario#0;class#Seminario#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Professor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="49" column="44" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
+              <folding>
+                <element signature="method#Professor#0;class#Professor#0" />
+                <element signature="method#Professor#1;class#Professor#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Aluno.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+              <folding>
+                <element signature="method#Aluno#0;class#Aluno#0" />
+                <element signature="method#Aluno#1;class#Aluno#0" />
+                <element signature="e#598#599#0" expanded="true" />
+                <element signature="e#631#632#0" expanded="true" />
+                <element signature="e#684#685#0" expanded="true" />
+                <element signature="e#727#728#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Local.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="31" column="41" lean-forward="true" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+              <folding>
+                <element signature="method#Local#0;class#Local#0" />
+                <element signature="method#Local#1;class#Local#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Fmodificadorestatico/test/ClienteTest.java">
+        <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/test/AssociacaoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+            <state relative-caret-position="360">
+              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -52,14 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/OlaMundo.java" />
-        <option value="$PROJECT_DIR$/src/ImprimindoVariaveis.java" />
-        <option value="$PROJECT_DIR$/src/RelatorioPendencia.java" />
-        <option value="$PROJECT_DIR$/src/Operadores.java" />
-        <option value="$PROJECT_DIR$/src/OperadoresDeComparacao.java" />
-        <option value="$PROJECT_DIR$/src/OperadoresLogicos.java" />
-        <option value="$PROJECT_DIR$/src/OperadoresAtribuicao.java" />
-        <option value="$PROJECT_DIR$/src/ControleDeFluxo1.java" />
         <option value="$PROJECT_DIR$/src/ControleDeFluxo2.java" />
         <option value="$PROJECT_DIR$/src/ExercicioControleDeFluxo.java" />
         <option value="$PROJECT_DIR$/src/ControleDeFluxo3.java" />
@@ -103,11 +191,19 @@
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Fmodificadorestatico/classes/Carro.java" />
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Fmodificadorestatico/classes/Cliente.java" />
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Fmodificadorestatico/test/ClienteTest.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/classes/Departamento.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/classes/Pessoa.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/classes/Endereco.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Local.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Professor.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Aluno.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Seminario.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/test/AssociacaoTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -153,7 +249,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="edeploy" type="462c0819:PsiDirectoryNode" />
               <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Eblocodeinicialização" type="462c0819:PsiDirectoryNode" />
+              <item name="Gassociacao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
@@ -161,43 +257,18 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="edeploy" type="462c0819:PsiDirectoryNode" />
               <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Eblocodeinicialização" type="462c0819:PsiDirectoryNode" />
+              <item name="Gassociacao" type="462c0819:PsiDirectoryNode" />
+              <item name="exercicios" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-dev-dojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edeploy" type="462c0819:PsiDirectoryNode" />
+              <item name="javacore" type="462c0819:PsiDirectoryNode" />
+              <item name="Gassociacao" type="462c0819:PsiDirectoryNode" />
+              <item name="exercicios" type="462c0819:PsiDirectoryNode" />
               <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-dev-dojo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="edeploy" type="462c0819:PsiDirectoryNode" />
-              <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Eblocodeinicialização" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-dev-dojo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="edeploy" type="462c0819:PsiDirectoryNode" />
-              <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Fmodificadorestatico" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-dev-dojo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="edeploy" type="462c0819:PsiDirectoryNode" />
-              <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Fmodificadorestatico" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-dev-dojo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="edeploy" type="462c0819:PsiDirectoryNode" />
-              <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Fmodificadorestatico" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -206,8 +277,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -229,7 +300,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ClienteTest (1)">
+  <component name="RunManager" selected="Application.AssociacaoTest">
+    <configuration name="AssociacaoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Gassociacao.exercicios.test.AssociacaoTest" />
+      <module name="java-dev-dojo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="local.edeploy.javacore.Gassociacao.exercicios.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CarroTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Fmodificadorestatico.test.CarroTest" />
       <module name="java-dev-dojo" />
@@ -270,19 +354,6 @@
       </method>
     </configuration>
     <configuration name="EstudanteTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Bintroducaometodos.exercicios.EstudanteTest" />
-      <module name="java-dev-dojo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="local.edeploy.javacore.Bintroducaometodos.exercicios.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EstudanteTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Dsobrecargaconstrutores.test.EstudanteTest" />
       <module name="java-dev-dojo" />
       <extension name="coverage">
@@ -310,11 +381,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AssociacaoTest" />
         <item itemvalue="Application.ClienteTest (1)" />
         <item itemvalue="Application.CarroTest" />
         <item itemvalue="Application.ClienteTest" />
         <item itemvalue="Application.FuncionarioTest" />
-        <item itemvalue="Application.EstudanteTest" />
       </list>
     </recent_temporary>
   </component>
@@ -332,9 +403,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.13219616" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.1359275" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -342,7 +413,7 @@
       <window_info id="Favorites" order="5" sideWeight="0.5005417" side_tool="true" weight="0.14498934" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29685807" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.156013" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -360,27 +431,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/introducao/ImprimindoVariaveis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/introducao/OlaMundo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/introducao/RelatorioPendencia.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/local/edeploy/introducao/arrays/Arrays1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -515,201 +565,104 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/introducaoclassestest/EstudanteTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Aintroducaoclasses/classes/Estudante.java">
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Aintroducaoclasses/classes/Estudante.java" />
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Aintroducaoclasses/test/EstudanteTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Aintroducaoclasses/classes/Carro.java" />
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Aintroducaoclasses/exercicios/classes/Professor.java" />
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Aintroducaoclasses/exercicios/test/ProfessorTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Bintroducaometodos/test/ParametrosTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Aintroducaoclasses/test/CarroTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Bintroducaometodos/classes/Professor.java" />
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Bintroducaometodos/test/ProfessorTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Bintroducaometodos/test/CalculadoraTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Bintroducaometodos/classes/Calculadora.java" />
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Bintroducaometodos/exercicios/Estudante.java" />
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Bintroducaometodos/exercicios/EstudanteTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Csobrecargametodos/classes/Funcionario.java" />
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Csobrecargametodos/test/FuncionarioTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Dsobrecargaconstrutores/classes/Estudante.java" />
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Dsobrecargaconstrutores/test/EstudanteTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Eblocodeinicialização/test/ClienteTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Eblocodeinicialização/classes/Cliente.java" />
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Fmodificadorestatico/classes/Carro.java" />
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Fmodificadorestatico/test/CarroTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Fmodificadorestatico/classes/Cliente.java" />
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Fmodificadorestatico/test/ClienteTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/classes/Departamento.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="60">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Aintroducaoclasses/test/EstudanteTest.java">
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/classes/Pessoa.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+        <state relative-caret-position="80">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Aintroducaoclasses/classes/Carro.java">
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/classes/Endereco.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        <state relative-caret-position="120">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Aintroducaoclasses/exercicios/classes/Professor.java">
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Professor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Aintroducaoclasses/exercicios/test/ProfessorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Bintroducaometodos/test/ParametrosTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Aintroducaoclasses/test/CarroTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Bintroducaometodos/classes/Professor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" selection-start-line="8" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Bintroducaometodos/test/ProfessorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Bintroducaometodos/test/CalculadoraTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Bintroducaometodos/classes/Calculadora.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="52" column="52" selection-start-line="52" selection-start-column="52" selection-end-line="52" selection-end-column="52" />
+        <state relative-caret-position="660">
+          <caret line="49" column="44" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
           <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
+            <element signature="method#Professor#0;class#Professor#0" />
+            <element signature="method#Professor#1;class#Professor#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Bintroducaometodos/exercicios/Estudante.java">
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Aluno.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        <state relative-caret-position="660">
+          <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
           <folding>
-            <element signature="method#setIdade#0;class#Estudante#0" />
-            <element signature="e#754#755#0" expanded="true" />
-            <element signature="e#790#791#0" expanded="true" />
+            <element signature="method#Aluno#0;class#Aluno#0" />
+            <element signature="method#Aluno#1;class#Aluno#0" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Bintroducaometodos/exercicios/EstudanteTest.java">
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Local.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Csobrecargametodos/classes/Funcionario.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        <state relative-caret-position="380">
+          <caret line="31" column="41" lean-forward="true" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
           <folding>
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
-            <element signature="e#525#526#0" expanded="true" />
-            <element signature="e#563#564#0" expanded="true" />
-            <element signature="e#767#768#0" expanded="true" />
-            <element signature="e#792#793#0" expanded="true" />
-            <element signature="e#828#829#0" expanded="true" />
-            <element signature="e#856#857#0" expanded="true" />
+            <element signature="method#Local#0;class#Local#0" />
+            <element signature="method#Local#1;class#Local#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Csobrecargametodos/test/FuncionarioTest.java">
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Seminario.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Dsobrecargaconstrutores/classes/Estudante.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Dsobrecargaconstrutores/test/EstudanteTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Eblocodeinicialização/test/ClienteTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Eblocodeinicialização/classes/Cliente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="431">
+          <caret line="61" column="38" lean-forward="true" selection-start-line="61" selection-start-column="38" selection-end-line="61" selection-end-column="38" />
           <folding>
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
+            <element signature="method#Seminario#0;class#Seminario#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Fmodificadorestatico/classes/Carro.java">
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/test/AssociacaoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="545">
-          <caret line="40" column="29" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Fmodificadorestatico/test/CarroTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Fmodificadorestatico/classes/Cliente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Fmodificadorestatico/test/ClienteTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        <state relative-caret-position="360">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
