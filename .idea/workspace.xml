@@ -2,56 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee51dcd1-eaba-4c5d-88bf-5d2ac3f30c88" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/classes/Departamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/classes/Endereco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/classes/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Local.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Professor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Seminario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/test/AssociacaoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Hherança/classes/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Hherança/classes/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Hherança/classes/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Hherança/test/HerancaTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/META-INF/JavaOnline.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/ImprimindoVariaveis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/OlaMundo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/RelatorioPendencia.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/arrays/Arrays1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/arrays/Arrays2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/arrays/Arrays3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/arrays/Arrays4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/arrays/Arrays5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/arrays/Arrays6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/controledefluxo/ControleDeFluxo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/controledefluxo/ControleDeFluxo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/controledefluxo/ControleDeFluxo3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/controledefluxo/ControleDeFluxo4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/controledefluxo/ControleDeFluxo5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/controledefluxo/ControleDeFluxo6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/controledefluxo/ExercicioControleDeFluxo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/controledefluxo/ExercicioControleDeFluxo3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/controledefluxo/ExercicioControleDeFluxo4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/operadores/Operadores.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/operadores/OperadoresAtribuicao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/operadores/OperadoresDeComparacao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/introducao/operadores/OperadoresLogicos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/introducaoclasses/classes/Carro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/introducaoclasses/classes/Estudante.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/introducaoclasses/exercicios/classes/Professor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/introducaoclasses/exercicios/test/ProfessorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/introducaoclasses/test/CarroTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/introducaoclasses/test/EstudanteTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/introducaometodos/classes/Calculadora.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/introducaometodos/classes/Professor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/introducaometodos/exercicios/Estudante.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/introducaometodos/exercicios/EstudanteTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/introducaometodos/test/CalculadoraTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/introducaometodos/test/ParametrosTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/introducaometodos/test/ProfessorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/sobrecargaconstrutores/classes/Estudante.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/sobrecargaconstrutores/test/EstudanteTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/sobrecargametodos/classes/Funcionario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/local/edeploy/javacore/sobrecargametodos/test/FuncionarioTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uml/aula - 45.asta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uml/aula 46.asta" beforeDir="false" afterPath="$PROJECT_DIR$/uml/aula 46.asta" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,65 +23,68 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Seminario.java">
+        <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Hherança/classes/Pessoa.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="61" column="38" lean-forward="true" selection-start-line="61" selection-start-column="38" selection-end-line="61" selection-end-column="38" />
+            <state relative-caret-position="40">
+              <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="32" />
               <folding>
-                <element signature="method#Seminario#0;class#Seminario#0" />
+                <element signature="e#181#182#0" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#310#311#0" expanded="true" />
+                <element signature="e#336#337#0" expanded="true" />
+                <element signature="e#374#375#0" expanded="true" />
+                <element signature="e#404#405#0" expanded="true" />
+                <element signature="e#441#442#0" expanded="true" />
+                <element signature="e#472#473#0" expanded="true" />
+                <element signature="e#522#523#0" expanded="true" />
+                <element signature="e#562#563#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Professor.java">
+        <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Hherança/classes/Endereco.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="49" column="44" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
+            <state relative-caret-position="60">
+              <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
               <folding>
-                <element signature="method#Professor#0;class#Professor#0" />
-                <element signature="method#Professor#1;class#Professor#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Aluno.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
-              <folding>
-                <element signature="method#Aluno#0;class#Aluno#0" />
-                <element signature="method#Aluno#1;class#Aluno#0" />
-                <element signature="e#598#599#0" expanded="true" />
-                <element signature="e#631#632#0" expanded="true" />
-                <element signature="e#684#685#0" expanded="true" />
-                <element signature="e#727#728#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Local.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="31" column="41" lean-forward="true" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
-              <folding>
-                <element signature="method#Local#0;class#Local#0" />
-                <element signature="method#Local#1;class#Local#0" />
+                <element signature="e#153#154#0" expanded="true" />
+                <element signature="e#179#180#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#389#390#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/test/AssociacaoTest.java">
+        <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Hherança/classes/Funcionario.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+            <state relative-caret-position="480">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#182#183#0" expanded="true" />
+                <element signature="e#228#229#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#555#556#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Hherança/test/HerancaTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -148,10 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ControleDeFluxo2.java" />
-        <option value="$PROJECT_DIR$/src/ExercicioControleDeFluxo.java" />
-        <option value="$PROJECT_DIR$/src/ControleDeFluxo3.java" />
-        <option value="$PROJECT_DIR$/src/ExercicioControleDeFluxo3.java" />
         <option value="$PROJECT_DIR$/src/ControleDeFluxo.java" />
         <option value="$PROJECT_DIR$/src/ExercicioControleDeFluxo1.java" />
         <option value="$PROJECT_DIR$/src/ControleDeFluxo4.java" />
@@ -199,6 +155,10 @@
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Aluno.java" />
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Seminario.java" />
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/test/AssociacaoTest.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Hherança/classes/Endereco.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Hherança/test/HerancaTest.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Hherança/classes/Pessoa.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Hherança/classes/Funcionario.java" />
       </list>
     </option>
   </component>
@@ -217,7 +177,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -249,7 +208,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="edeploy" type="462c0819:PsiDirectoryNode" />
               <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Gassociacao" type="462c0819:PsiDirectoryNode" />
+              <item name="Hherança" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
@@ -257,23 +216,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="edeploy" type="462c0819:PsiDirectoryNode" />
               <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Gassociacao" type="462c0819:PsiDirectoryNode" />
-              <item name="exercicios" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-dev-dojo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="edeploy" type="462c0819:PsiDirectoryNode" />
-              <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Gassociacao" type="462c0819:PsiDirectoryNode" />
-              <item name="exercicios" type="462c0819:PsiDirectoryNode" />
+              <item name="Hherança" type="462c0819:PsiDirectoryNode" />
               <item name="classes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -300,7 +250,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AssociacaoTest">
+  <component name="RunManager" selected="Application.HerancaTest">
     <configuration name="AssociacaoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Gassociacao.exercicios.test.AssociacaoTest" />
       <module name="java-dev-dojo" />
@@ -353,25 +303,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EstudanteTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Dsobrecargaconstrutores.test.EstudanteTest" />
+    <configuration name="HerancaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Hherança.test.HerancaTest" />
       <module name="java-dev-dojo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="local.edeploy.javacore.Dsobrecargaconstrutores.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FuncionarioTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Csobrecargametodos.test.FuncionarioTest" />
-      <module name="java-dev-dojo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="local.edeploy.javacore.Csobrecargametodos.test.*" />
+          <option name="PATTERN" value="local.edeploy.javacore.Hherança.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -381,11 +318,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HerancaTest" />
         <item itemvalue="Application.AssociacaoTest" />
         <item itemvalue="Application.ClienteTest (1)" />
         <item itemvalue="Application.CarroTest" />
         <item itemvalue="Application.ClienteTest" />
-        <item itemvalue="Application.FuncionarioTest" />
       </list>
     </recent_temporary>
   </component>
@@ -404,8 +341,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.1359275" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49945828" weight="0.1369936" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -413,7 +351,7 @@
       <window_info id="Favorites" order="5" sideWeight="0.5005417" side_tool="true" weight="0.14498934" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.156013" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30552545" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -431,34 +369,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/introducao/arrays/Arrays1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/introducao/arrays/Arrays2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/introducao/arrays/Arrays3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/introducao/arrays/Arrays4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/local/edeploy/introducao/arrays/Arrays5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7">
@@ -622,15 +532,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Aluno.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+        <state relative-caret-position="580">
+          <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
           <folding>
             <element signature="method#Aluno#0;class#Aluno#0" />
             <element signature="method#Aluno#1;class#Aluno#0" />
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#684#685#0" expanded="true" />
-            <element signature="e#727#728#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -638,20 +544,10 @@
     <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Local.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
-          <caret line="31" column="41" lean-forward="true" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
           <folding>
             <element signature="method#Local#0;class#Local#0" />
             <element signature="method#Local#1;class#Local#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Seminario.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="61" column="38" lean-forward="true" selection-start-line="61" selection-start-column="38" selection-end-line="61" selection-end-column="38" />
-          <folding>
-            <element signature="method#Seminario#0;class#Seminario#0" />
           </folding>
         </state>
       </provider>
@@ -662,6 +558,78 @@
           <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Seminario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="57" column="16" lean-forward="true" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
+          <folding>
+            <element signature="method#Seminario#0;class#Seminario#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Hherança/classes/Endereco.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+          <folding>
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Hherança/test/HerancaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Hherança/classes/Pessoa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="32" />
+          <folding>
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Hherança/classes/Funcionario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
           </folding>
         </state>
       </provider>
