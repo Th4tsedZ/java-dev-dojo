@@ -6,14 +6,12 @@ import local.edeploy.javacore.Hherança.classes.Pessoa;
 
 public class HerancaTest {
     public static void main(String[] args) {
-        Pessoa pessoa1 = new Pessoa();
+        Pessoa pessoa1 = new Pessoa("Gina");
         Endereco endereco1 = new Endereco();
-        Funcionario funcionario1 = new Funcionario();
+        Funcionario funcionario1 = new Funcionario("Augusto");
 
-        pessoa1.setNome("Gina");
         pessoa1.setCpf("123456");
 
-        funcionario1.setNome("Augusto");
         funcionario1.setCpf("321654");
         funcionario1.setSalario(3200);
 

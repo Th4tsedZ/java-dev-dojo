@@ -5,6 +5,15 @@ public class Pessoa {
     protected String cpf;
     protected Endereco endereco;
 
+    public Pessoa(String nome) {
+        this.nome = nome;
+    }
+
+    public Pessoa(String nome, String cpf) {
+        this(nome);
+        this.cpf = cpf;
+    }
+
     public String getNome() {
         return nome;
     }
@@ -29,7 +38,7 @@ public class Pessoa {
         this.endereco = endereco;
     }
 
-    public void print(){
+    public void print() {
         System.out.println("Nome: " + this.nome);
         System.out.println("CPF: " + this.cpf);
         System.out.println("Endereço: " + this.getEndereco().getRua() + ", " + this.getEndereco().getBairro());

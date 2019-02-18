@@ -3,6 +3,10 @@ package local.edeploy.javacore.Hherança.classes;
 public class Funcionario extends Pessoa {
     private double salario;
 
+    public Funcionario(String nome){
+        super(nome);
+    }
+
     public double getSalario() {
         return salario;
     }
