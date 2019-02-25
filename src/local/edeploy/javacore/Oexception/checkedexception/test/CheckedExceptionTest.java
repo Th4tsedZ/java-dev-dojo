@@ -1,21 +1,23 @@
 package local.edeploy.javacore.Oexception.checkedexception.test;
 
-import java.io.File;
 import java.io.IOException;
 
 public class CheckedExceptionTest {
     public static void main(String[] args) throws IOException {
-        criarArquivo();
+        acessarBanco();
     }
 
-    public static void criarArquivo() throws IOException {
-        File file = new File("teste.txt");
+    public static void acessarBanco() throws IOException {
+        //File file = new File("teste.txt");
 
         try {
-            System.out.println("Arquivo criado? " + file.createNewFile());
-        } catch (IOException e) {
+            System.out.println("Acessando o banco de dados...");
+            System.out.println("Banco acessado com sucesso!");
+        } catch (Exception e) {
+            System.out.println("Falha ao acessar o banco de dados!");
             e.printStackTrace();
-            throw e;
+        } finally {
+            System.out.printf("Fechando conexão");
         }
     }
 }
