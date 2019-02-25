@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee51dcd1-eaba-4c5d-88bf-5d2ac3f30c88" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/runtimeexception/test/MultiplasRuntimeExceptionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/runtimeexception/test/TryWithResourcesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/classes/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/classes/Leitor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/classes/Leitor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/classes/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/test/CustomExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/test/SobrescritaComExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/customexception/LoginInvalidoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Passert/test/AssertTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Rwrappers/classes/WrappersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Sstring/test/StringBuilderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Sstring/test/StringPerformanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Sstring/test/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Tdatas/test/DateFormatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Tdatas/test/ManipulacaoDeDatasTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java-dev-dojo/local/edeploy/introducao/ImprimindoVariaveis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-dev-dojo/local/edeploy/introducao/ImprimindoVariaveis.class" afterDir="false" />
@@ -93,7 +105,7 @@
       <change beforePath="$PROJECT_DIR$/out/production/java-dev-dojo/local/edeploy/javacore/Oexception/checkedexception/test/CheckedExceptionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-dev-dojo/local/edeploy/javacore/Oexception/checkedexception/test/CheckedExceptionTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java-dev-dojo/local/edeploy/javacore/Oexception/error/test/ErrorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-dev-dojo/local/edeploy/javacore/Oexception/error/test/ErrorTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java-dev-dojo/local/edeploy/javacore/Oexception/runtimeexception/test/RuntimeExceptionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-dev-dojo/local/edeploy/javacore/Oexception/runtimeexception/test/RuntimeExceptionTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/test/CheckedExceptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/test/CheckedExceptionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/runtimeexception/test/TryWithResourcesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/test/TryWithResourcesTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -106,39 +118,24 @@
     <favorites_list name="JavaOnline" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/runtimeexception/test/RuntimeExceptionTest.java">
+        <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Tdatas/test/ManipulacaoDeDatasTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/test/CheckedExceptionTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/runtimeexception/test/MultiplasRuntimeExceptionTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            <state relative-caret-position="286">
+              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/runtimeexception/test/TryWithResourcesTest.java">
+        <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Tdatas/test/DateFormatTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            <state relative-caret-position="418">
+              <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -164,24 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/classes/Departamento.java" />
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/classes/Pessoa.java" />
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/classes/Endereco.java" />
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Local.java" />
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Professor.java" />
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Aluno.java" />
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Seminario.java" />
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/test/AssociacaoTest.java" />
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Hherança/classes/Endereco.java" />
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Hherança/classes/Pessoa.java" />
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Hherança/classes/Funcionario.java" />
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Hherança/test/HerancaTest.java" />
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Isobrescrita/classes/Pessoa.java" />
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Isobrescrita/test/PessoaTest.java" />
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Jmodificadorfinal/classes/Comprador.java" />
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Jmodificadorfinal/test/CarroTest.java" />
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Jmodificadorfinal/classes/Carro.java" />
-        <option value="$PROJECT_DIR$/src/local/edeploy/introducao/arrays/Matriz.java" />
         <option value="$PROJECT_DIR$/src/local/edeploy/introducao/arrays/Arrays6.java" />
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Kunum/classes.java" />
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Kunum/test/ClienteTest.java" />
@@ -215,14 +194,32 @@
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/test/CheckedExceptionTest.java" />
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/runtimeexception/test/MultiplasRuntimeExceptionTest.java" />
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/runtimeexception/test/TryWithResourcesTest.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/classes/Leitor2.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/classes/Leitor1.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/test/TryWithResourcesTest.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/customexception/LoginInvalidoException.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/test/CustomExceptionTest.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/classes/Pessoa.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/classes/Funcionario.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/test/SobrescritaComExceptionTest.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Passertions/teste/AssertTest.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Passert/teste/AssertTest.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Passert/test/AssertTest.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Rwrappers/classes/WrappersTest.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Sstring/test/Stringtest.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Sstring/test/StringTest.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Sstring/test/StringPerformanceTest.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Sstring/test/StringBuilderTest.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Tdatas/test/ManipulacaoDeDatasTest.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Tdatas/test/DateFormatTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-2" />
-    <option name="y" value="444" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="464" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -263,7 +260,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="edeploy" type="462c0819:PsiDirectoryNode" />
               <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Oexception" type="462c0819:PsiDirectoryNode" />
+              <item name="Tdatas" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
@@ -271,25 +268,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="edeploy" type="462c0819:PsiDirectoryNode" />
               <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Oexception" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-dev-dojo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="edeploy" type="462c0819:PsiDirectoryNode" />
-              <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Oexception" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-dev-dojo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="edeploy" type="462c0819:PsiDirectoryNode" />
-              <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Oexception" type="462c0819:PsiDirectoryNode" />
+              <item name="Tdatas" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -324,13 +303,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CheckedExceptionTest">
-    <configuration name="CheckedExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Oexception.checkedexception.test.CheckedExceptionTest" />
+  <component name="RunManager" selected="Application.DateFormatTest">
+    <configuration name="DateFormatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Tdatas.test.DateFormatTest" />
       <module name="java-dev-dojo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="local.edeploy.javacore.Oexception.checkedexception.test.*" />
+          <option name="PATTERN" value="local.edeploy.javacore.Tdatas.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -338,12 +317,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DAOTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Npolimorfismo.test.DAOTest" />
+    <configuration name="ManipulacaoDeDatasTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Tdatas.test.ManipulacaoDeDatasTest" />
       <module name="java-dev-dojo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="local.edeploy.javacore.Npolimorfismo.test.*" />
+          <option name="PATTERN" value="local.edeploy.javacore.Tdatas.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -351,12 +330,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ErrorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Oexception.error.test.ErrorTest" />
+    <configuration name="StringBuilderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Sstring.test.StringBuilderTest" />
       <module name="java-dev-dojo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="local.edeploy.javacore.Oexception.error.test.*" />
+          <option name="PATTERN" value="local.edeploy.javacore.Sstring.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -364,12 +343,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolimorfismoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Npolimorfismo.test.PolimorfismoTest" />
+    <configuration name="StringPerformanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Sstring.test.StringPerformanceTest" />
       <module name="java-dev-dojo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="local.edeploy.javacore.Npolimorfismo.test.*" />
+          <option name="PATTERN" value="local.edeploy.javacore.Sstring.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -377,12 +356,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RuntimeExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Oexception.runtimeexception.test.RuntimeExceptionTest" />
+    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Sstring.test.StringTest" />
       <module name="java-dev-dojo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="local.edeploy.javacore.Oexception.runtimeexception.test.*" />
+          <option name="PATTERN" value="local.edeploy.javacore.Sstring.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -390,13 +369,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.StringTest" />
+      <item itemvalue="Application.StringPerformanceTest" />
+      <item itemvalue="Application.StringBuilderTest" />
+      <item itemvalue="Application.ManipulacaoDeDatasTest" />
+      <item itemvalue="Application.DateFormatTest" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CheckedExceptionTest" />
-        <item itemvalue="Application.RuntimeExceptionTest" />
-        <item itemvalue="Application.PolimorfismoTest" />
-        <item itemvalue="Application.ErrorTest" />
-        <item itemvalue="Application.DAOTest" />
+        <item itemvalue="Application.DateFormatTest" />
+        <item itemvalue="Application.ManipulacaoDeDatasTest" />
+        <item itemvalue="Application.StringBuilderTest" />
+        <item itemvalue="Application.StringPerformanceTest" />
+        <item itemvalue="Application.StringTest" />
       </list>
     </recent_temporary>
   </component>
@@ -414,10 +400,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.15031983" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.13219616" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -425,7 +410,7 @@
       <window_info id="Favorites" order="5" sideWeight="0.5005417" side_tool="true" weight="0.14498934" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.27193934" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.19609967" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24485373" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -443,46 +428,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Fmodificadorestatico/classes/Cliente.java" />
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Fmodificadorestatico/test/ClienteTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/classes/Departamento.java" />
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/classes/Pessoa.java" />
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/classes/Endereco.java" />
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Professor.java" />
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Aluno.java" />
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Local.java" />
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/test/AssociacaoTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Gassociacao/exercicios/classes/Seminario.java" />
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Hherança/classes/Endereco.java" />
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Hherança/test/HerancaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="24" column="15" lean-forward="true" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Hherança/classes/Pessoa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Hherança/classes/Funcionario.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-          <folding>
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Isobrescrita/classes/Pessoa.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/jre/lib/rt.jar!/java/lang/Object.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -534,6 +479,13 @@
     <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Npolimorfismo/test/DAOTest.java" />
     <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/error/test/ErrorTest.java" />
     <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Npolimorfismo/test/PolimorfismoTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/test/CheckedExceptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/runtimeexception/test/RuntimeExceptionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -541,24 +493,143 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/test/CheckedExceptionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/runtimeexception/test/MultiplasRuntimeExceptionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        <state relative-caret-position="418">
+          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/runtimeexception/test/TryWithResourcesTest.java">
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/test/TryWithResourcesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/customexception/LoginInvalidoException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/classes/Leitor1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/classes/Leitor2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/test/CustomExceptionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
           <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/test/SobrescritaComExceptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/classes/Funcionario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/classes/Pessoa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Passert/test/AssertTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Rwrappers/classes/WrappersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Sstring/test/StringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Sstring/test/StringPerformanceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Sstring/test/StringBuilderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Tdatas/test/ManipulacaoDeDatasTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Tdatas/test/DateFormatTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
