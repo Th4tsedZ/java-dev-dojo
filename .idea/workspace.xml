@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee51dcd1-eaba-4c5d-88bf-5d2ac3f30c88" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Tdatas/test/LocaleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Tdatas/test/NumberFormatTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Tdatas/test/SimpleDateFormatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Uexpressoesregulares/test/ExepressoesRegulares.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-dev-dojo/local/edeploy/javacore/Oexception/checkedexception/test/CheckedExceptionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-dev-dojo/local/edeploy/javacore/Oexception/checkedexception/test/CheckedExceptionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-dev-dojo/local/edeploy/javacore/Tdatas/test/NumberFormatTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-dev-dojo/local/edeploy/javacore/Tdatas/test/NumberFormatTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +22,32 @@
     <favorites_list name="JavaOnline" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Tdatas/test/SimpleDateFormatTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Uexpressoesregulares/test/ExepressoesRegulares.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -41,8 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Kunum/test/ClienteTest.java" />
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Kunum/classes/TipoCliente.java" />
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Kunum/classes/Cliente.java" />
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Lclassesabstratas/classes/Gerente.java" />
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Lclassesabstratas/classes/Vendedor.java" />
@@ -92,6 +114,8 @@
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Tdatas/test/ManipulacaoDeDatasTest.java" />
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Tdatas/test/LocaleTest.java" />
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Tdatas/test/NumberFormatTest.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Tdatas/test/SimpleDateFormatTest.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Uexpressoesregulares/test/ExepressoesRegulares.java" />
       </list>
     </option>
   </component>
@@ -109,9 +133,54 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-dev-dojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-dev-dojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-dev-dojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edeploy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-dev-dojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edeploy" type="462c0819:PsiDirectoryNode" />
+              <item name="javacore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-dev-dojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edeploy" type="462c0819:PsiDirectoryNode" />
+              <item name="javacore" type="462c0819:PsiDirectoryNode" />
+              <item name="Uexpressoesregulares" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-dev-dojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edeploy" type="462c0819:PsiDirectoryNode" />
+              <item name="javacore" type="462c0819:PsiDirectoryNode" />
+              <item name="Uexpressoesregulares" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -141,15 +210,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NumberFormatTest">
-    <configuration name="DateFormatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jre1.8.0_201" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Tdatas.test.DateFormatTest" />
+  <component name="RunManager" selected="Application.ExepressoesRegulares">
+    <configuration name="ExepressoesRegulares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Uexpressoesregulares.test.ExepressoesRegulares" />
       <module name="java-dev-dojo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="local.edeploy.javacore.Tdatas.test.*" />
+          <option name="PATTERN" value="local.edeploy.javacore.Uexpressoesregulares.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,12 +263,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Sstring.test.StringBuilderTest" />
+    <configuration name="SimpleDateFormatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Tdatas.test.SimpleDateFormatTest" />
       <module name="java-dev-dojo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="local.edeploy.javacore.Sstring.test.*" />
+          <option name="PATTERN" value="local.edeploy.javacore.Tdatas.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,19 +277,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DateFormatTest" />
       <item itemvalue="Application.ManipulacaoDeDatasTest" />
-      <item itemvalue="Application.StringBuilderTest" />
       <item itemvalue="Application.LocaleTest" />
       <item itemvalue="Application.NumberFormatTest" />
+      <item itemvalue="Application.SimpleDateFormatTest" />
+      <item itemvalue="Application.ExepressoesRegulares" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExepressoesRegulares" />
+        <item itemvalue="Application.SimpleDateFormatTest" />
         <item itemvalue="Application.NumberFormatTest" />
         <item itemvalue="Application.LocaleTest" />
         <item itemvalue="Application.ManipulacaoDeDatasTest" />
-        <item itemvalue="Application.DateFormatTest" />
-        <item itemvalue="Application.StringBuilderTest" />
       </list>
     </recent_temporary>
   </component>
@@ -241,8 +308,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.16684435" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.141258" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -250,7 +318,7 @@
       <window_info id="Favorites" order="5" sideWeight="0.5005417" side_tool="true" weight="0.14498934" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.27193934" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22968581" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25893825" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -268,14 +336,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/introducao/arrays/Arrays6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Jmodificadorfinal/test/CarroTest.java" />
     <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Jmodificadorfinal/classes/Comprador.java" />
     <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Kunum/classes.java" />
     <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Kunum/test/ClienteTest.java" />
@@ -500,6 +560,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Tdatas/test/SimpleDateFormatTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Uexpressoesregulares/test/ExepressoesRegulares.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
