@@ -19,6 +19,7 @@ public class ExepressoesRegulares {
         // () agrupamento
         // | ou
         // $ fim da linha
+        // ^ negação
 
 //        String regex = "0[xX]([0-9a-fA-F])+(\\s|$)";
 //        String texto = "12 0x 0X 0xFFABC 0X10G 0x1";
@@ -26,8 +27,11 @@ public class ExepressoesRegulares {
 //        String regex = "([\\w\\.])+@([a-z-A-Z])+(\\.([a-z-A-Z])+)+";
 //        String texto = "fulano@hotmail.com";
 
-        String regex = "\\d{2}/\\d{2}/\\d{4}";
-        String texto = "05/10/2010 05/5/2015 1/1/01 01/05/95"; // dd/mm/yyyy
+//        String regex = "\\d{2}/\\d{2}/\\d{4}";
+//        String texto = "05/10/2010 05/5/2015 1/1/01 01/05/95"; // dd/mm/yyyy
+
+        String regex = "proj[^,]*";
+        String texto = "proj1.bkp, proj1.java, proj1.class, proj2.bkp, proj3.class, foto, diagrama.uml";
 
         Pattern pattern = Pattern.compile(regex);
         Matcher matcher = pattern.matcher(texto);
