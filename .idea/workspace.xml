@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee51dcd1-eaba-4c5d-88bf-5d2ac3f30c88" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Uexpressoesregulares/test/ScannerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Uexpressoesregulares/test/TokenTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Vresourcebundle/test/ResourceBundleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Wio/test/FileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/messages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/messages_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Wio/test/BufferedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Wio/test/FileDiretorioTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Wio/test/FileWriterReaderTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-dev-dojo/local/edeploy/javacore/Uexpressoesregulares/test/ExepressoesRegulares.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-dev-dojo/local/edeploy/javacore/Uexpressoesregulares/test/ExepressoesRegulares.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/local/edeploy/javacore/Uexpressoesregulares/test/ExepressoesRegulares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Uexpressoesregulares/test/ExepressoesRegulares.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,8 +26,41 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Wio/test/FileTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="79" lean-forward="true" selection-start-line="15" selection-start-column="79" selection-end-line="15" selection-end-column="79" />
+            <state relative-caret-position="396">
+              <caret line="18" column="9" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="18" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Wio/test/FileWriterReaderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Wio/test/BufferedTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="27" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Wio/test/FileDiretorioTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -58,10 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Minterfaces/classes/Transportavel.java" />
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Npolimorfismo/classes/Funcionario.java" />
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Npolimorfismo/classes/Vendedor.java" />
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Npolimorfismo/classes/Gerente.java" />
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Npolimorfismo/classes/RelatorioPagamento.java" />
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Npolimorfismo/classes/ArquivoDAO.java" />
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Npolimorfismo/classes/DAO.java" />
@@ -109,14 +133,18 @@
         <option value="$PROJECT_DIR$/src/messages_pt_BR.properties" />
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Vresourcebundle/test/ResourceBundleTest.java" />
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Wio/test/FileTest.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Wio/test/FileWriterReaderTest.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Wio/test/BuferedTest.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Wio/test/BufferedTest.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Wio/test/FileDiretorioTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1246" />
-    <option name="y" value="83" />
+    <option name="x" value="396" />
+    <option name="y" value="74" />
     <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -134,6 +162,11 @@
             <path>
               <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-dev-dojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-dev-dojo" type="462c0819:PsiDirectoryNode" />
+              <item name="folder2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
@@ -160,6 +193,15 @@
               <item name="edeploy" type="462c0819:PsiDirectoryNode" />
               <item name="javacore" type="462c0819:PsiDirectoryNode" />
               <item name="Wio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-dev-dojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edeploy" type="462c0819:PsiDirectoryNode" />
+              <item name="javacore" type="462c0819:PsiDirectoryNode" />
+              <item name="Wio" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -195,12 +237,25 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.FileTest">
-    <configuration name="ExepressoesRegulares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Uexpressoesregulares.test.ExepressoesRegulares" />
+    <configuration name="BufferedTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Wio.test.BufferedTest" />
       <module name="java-dev-dojo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="local.edeploy.javacore.Uexpressoesregulares.test.*" />
+          <option name="PATTERN" value="local.edeploy.javacore.Wio.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileDiretorioTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Wio.test.FileDiretorioTest" />
+      <module name="java-dev-dojo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="local.edeploy.javacore.Wio.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,6 +265,19 @@
     </configuration>
     <configuration name="FileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Wio.test.FileTest" />
+      <module name="java-dev-dojo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="local.edeploy.javacore.Wio.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileWriterReaderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Wio.test.FileWriterReaderTest" />
       <module name="java-dev-dojo" />
       <extension name="coverage">
         <pattern>
@@ -234,46 +302,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Uexpressoesregulares.test.ScannerTest" />
-      <module name="java-dev-dojo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="local.edeploy.javacore.Uexpressoesregulares.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TokenTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Uexpressoesregulares.test.TokenTest" />
-      <module name="java-dev-dojo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="local.edeploy.javacore.Uexpressoesregulares.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.ExepressoesRegulares" />
-      <item itemvalue="Application.TokenTest" />
-      <item itemvalue="Application.ScannerTest" />
-      <item itemvalue="Application.ResourceBundleTest" />
       <item itemvalue="Application.FileTest" />
+      <item itemvalue="Application.ResourceBundleTest" />
+      <item itemvalue="Application.FileWriterReaderTest" />
+      <item itemvalue="Application.BufferedTest" />
+      <item itemvalue="Application.FileDiretorioTest" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.FileTest" />
+        <item itemvalue="Application.FileDiretorioTest" />
+        <item itemvalue="Application.BufferedTest" />
+        <item itemvalue="Application.FileWriterReaderTest" />
         <item itemvalue="Application.ResourceBundleTest" />
-        <item itemvalue="Application.ScannerTest" />
-        <item itemvalue="Application.TokenTest" />
-        <item itemvalue="Application.ExepressoesRegulares" />
       </list>
     </recent_temporary>
   </component>
@@ -291,10 +333,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.14285715" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.14285715" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -302,7 +344,7 @@
       <window_info id="Favorites" order="5" sideWeight="0.5005417" side_tool="true" weight="0.14498934" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.27193934" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25893825" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20693392" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -324,11 +366,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Lclassesabstratas/test/FuncionarioTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Minterfaces/classes/Produto.java" />
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Minterfaces/classes/Transportavel.java" />
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Minterfaces/classes/Tributavel.java" />
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Minterfaces/test/TestProduto.java" />
     <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Npolimorfismo/classes/Vendedor.java" />
     <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Npolimorfismo/classes/Gerente.java" />
     <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Npolimorfismo/classes/Funcionario.java" />
@@ -579,16 +616,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/teste">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/messages_en_US.propreties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/teste" />
+    <entry file="file://$PROJECT_DIR$/src/messages_en_US.propreties" />
     <entry file="file://$PROJECT_DIR$/src/messages.properties">
       <provider editor-type-id="ResourceBundle" />
       <provider selected="true" editor-type-id="text-editor">
@@ -623,10 +652,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Arquivo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/folder/arquivo.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Wio/test/BufferedTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Wio/test/FileDiretorioTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Wio/test/FileWriterReaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Wio/test/FileTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="79" lean-forward="true" selection-start-line="15" selection-start-column="79" selection-end-line="15" selection-end-column="79" />
+        <state relative-caret-position="396">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="18" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
