@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee51dcd1-eaba-4c5d-88bf-5d2ac3f30c88" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Wio/test/ConsoleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/CriandoPathTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/AtributosBasicosTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/NormalizacaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/RelativizarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/ResolvendoPaths.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-dev-dojo/META-INF/java-dev-dojo.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/folder2/arquivo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/home/arquivo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-dev-dojo/local/edeploy/introducao/arrays/Arrays5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-dev-dojo/local/edeploy/introducao/arrays/Arrays5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-dev-dojo/local/edeploy/javacore/Xnio/test/CriandoPathTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-dev-dojo/local/edeploy/javacore/Xnio/test/CriandoPathTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/local/edeploy/introducao/arrays/Arrays5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/local/edeploy/introducao/arrays/Arrays5.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,22 +29,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/CriandoPathTest.java">
+        <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/AtributosBasicosTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="880">
-              <caret line="40" column="72" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="72" />
+            <state relative-caret-position="466">
+              <caret line="58" column="26" lean-forward="true" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/nio/file/StandardCopyOption.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -63,11 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Npolimorfismo/classes/DAO.java" />
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Npolimorfismo/classes/InterfaceDAO.java" />
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Npolimorfismo/classes/GenericDAO.java" />
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Npolimorfismo/classes/DatabaseDAOImpli.java" />
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Npolimorfismo/classes/ArquivoDAOImpli.java" />
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Npolimorfismo/test/DAOTest.java" />
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/test/ErrorTest.java" />
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/error/test/ErrorTest.java" />
@@ -114,6 +104,11 @@
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Wio/test/FileDiretorioTest.java" />
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Wio/test/ConsoleTest.java" />
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/CriandoPathTest.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/introducao/arrays/Arrays5.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/NormalizacaoTest.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/ResolvendoPaths.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/RelativizarTest.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/AtributosBasicosTest.java" />
       </list>
     </option>
   </component>
@@ -128,10 +123,10 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,18 +137,31 @@
             <path>
               <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-dev-dojo" type="462c0819:PsiDirectoryNode" />
+              <item name="folder2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-dev-dojo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-dev-dojo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="local" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-dev-dojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="local" type="462c0819:PsiDirectoryNode" />
               <item name="edeploy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-dev-dojo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="local" type="462c0819:PsiDirectoryNode" />
               <item name="edeploy" type="462c0819:PsiDirectoryNode" />
               <item name="javacore" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -161,14 +169,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553104429619" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../projetos-teste/teste-padrão-edp" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553531966192" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-maratona-jsf" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -181,6 +190,9 @@
       <recent name="local.edeploy.javacore.Fmodificadorestatico.classes" />
       <recent name="local.edeploy.javacore.introducaometodos.test" />
       <recent name="local.edeploy.javacore.introducaometodos.classes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\projetos java\java-dev-dojo\home" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -195,13 +207,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CriandoPathTest">
-    <configuration name="BufferedTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Wio.test.BufferedTest" />
+  <component name="RunManager" selected="Application.AtributosBasicosTest">
+    <configuration name="AtributosBasicosTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Xnio.test.AtributosBasicosTest" />
       <module name="java-dev-dojo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="local.edeploy.javacore.Wio.test.*" />
+          <option name="PATTERN" value="local.edeploy.javacore.Xnio.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,12 +234,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileDiretorioTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Wio.test.FileDiretorioTest" />
+    <configuration name="NormalizacaoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Xnio.test.NormalizacaoTest" />
       <module name="java-dev-dojo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="local.edeploy.javacore.Wio.test.*" />
+          <option name="PATTERN" value="local.edeploy.javacore.Xnio.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,12 +247,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Wio.test.FileTest" />
+    <configuration name="RelativizarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Xnio.test.RelativizarTest" />
       <module name="java-dev-dojo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="local.edeploy.javacore.Wio.test.*" />
+          <option name="PATTERN" value="local.edeploy.javacore.Xnio.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,12 +260,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileWriterReaderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Wio.test.FileWriterReaderTest" />
+    <configuration name="ResolvendoPaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Xnio.test.ResolvendoPaths" />
       <module name="java-dev-dojo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="local.edeploy.javacore.Wio.test.*" />
+          <option name="PATTERN" value="local.edeploy.javacore.Xnio.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,19 +274,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BufferedTest" />
-      <item itemvalue="Application.FileDiretorioTest" />
-      <item itemvalue="Application.FileTest" />
-      <item itemvalue="Application.FileWriterReaderTest" />
       <item itemvalue="Application.CriandoPathTest" />
+      <item itemvalue="Application.NormalizacaoTest" />
+      <item itemvalue="Application.ResolvendoPaths" />
+      <item itemvalue="Application.RelativizarTest" />
+      <item itemvalue="Application.AtributosBasicosTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AtributosBasicosTest" />
+        <item itemvalue="Application.RelativizarTest" />
+        <item itemvalue="Application.ResolvendoPaths" />
+        <item itemvalue="Application.NormalizacaoTest" />
         <item itemvalue="Application.CriandoPathTest" />
-        <item itemvalue="Application.FileTest" />
-        <item itemvalue="Application.FileDiretorioTest" />
-        <item itemvalue="Application.BufferedTest" />
-        <item itemvalue="Application.FileWriterReaderTest" />
       </list>
     </recent_temporary>
   </component>
@@ -289,29 +301,30 @@
       <option name="presentableId" value="Default" />
       <updated>1549371581095</updated>
       <workItem from="1553083904978" duration="8380000" />
+      <workItem from="1553185217885" duration="1680000" />
+      <workItem from="1553252538902" duration="1484000" />
+      <workItem from="1553510636141" duration="9646000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8380000" />
+    <option name="totallyTimeSpent" value="21190000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.14765458" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49945828" weight="0.17217484" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" sideWeight="0.5005417" side_tool="true" weight="0.14498934" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.27193934" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.17551462" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.052004334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -320,15 +333,17 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.22643554" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Maven" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -339,13 +354,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Npolimorfismo/classes/RelatorioPagamento.java" />
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Npolimorfismo/classes/ArquivoDAO.java" />
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Npolimorfismo/classes/GenericDAO.java" />
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Npolimorfismo/classes/DatabaseDAOImpli.java" />
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Npolimorfismo/classes/ArquivoDAOImpli.java" />
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Npolimorfismo/test/DAOTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/error/test/ErrorTest.java" />
     <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Npolimorfismo/test/PolimorfismoTest.java" />
     <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/test/CheckedExceptionTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -589,12 +597,12 @@
     <entry file="file://$PROJECT_DIR$/src/teste" />
     <entry file="file://$PROJECT_DIR$/src/messages_en_US.propreties" />
     <entry file="file://$PROJECT_DIR$/src/messages.properties">
+      <provider editor-type-id="ResourceBundle" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
         </state>
       </provider>
-      <provider editor-type-id="ResourceBundle" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Vresourcebundle/test/ResourceBundleTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -607,20 +615,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/messages_pt_BR.properties">
+      <provider editor-type-id="ResourceBundle" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
         </state>
       </provider>
-      <provider editor-type-id="ResourceBundle" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/messages_en_US.properties">
+      <provider editor-type-id="ResourceBundle" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
         </state>
       </provider>
-      <provider editor-type-id="ResourceBundle" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Arquivo.txt" />
     <entry file="file://$PROJECT_DIR$/folder/arquivo.txt">
@@ -670,17 +678,81 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/introducao/arrays/Arrays3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/introducao/arrays/Arrays4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/nio/file/StandardCopyOption.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="154">
           <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/CriandoPathTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="40" column="72" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="72" />
+        <state relative-caret-position="902">
+          <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/NormalizacaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/ResolvendoPaths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/RelativizarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/introducao/arrays/Arrays5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/AtributosBasicosTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="58" column="26" lean-forward="true" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
