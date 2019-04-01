@@ -2,15 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee51dcd1-eaba-4c5d-88bf-5d2ac3f30c88" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/AtributosBasicosTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/NormalizacaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/RelativizarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/ResolvendoPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pasta/arquivo_qualquer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pasta/subpasta/subsubpasta/file.bkp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pasta/subpasta/subsubpasta/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pasta/subpasta/subsubpasta/file2.bkp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/DirectoryStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/DosFileAttributesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/FileVisitorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/PathMatcherTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/folder2/arquivo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/home/arquivo.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-dev-dojo/local/edeploy/introducao/arrays/Arrays5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-dev-dojo/local/edeploy/introducao/arrays/Arrays5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-dev-dojo/local/edeploy/javacore/Xnio/test/CriandoPathTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-dev-dojo/local/edeploy/javacore/Xnio/test/CriandoPathTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/local/edeploy/introducao/arrays/Arrays5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/local/edeploy/introducao/arrays/Arrays5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-dev-dojo/local/edeploy/javacore/Xnio/test/AtributosBasicosTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-dev-dojo/local/edeploy/javacore/Xnio/test/AtributosBasicosTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/AtributosBasicosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/AtributosBasicosTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,20 +29,7 @@
     <favorites_list name="JavaOnline" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/AtributosBasicosTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="466">
-              <caret line="58" column="26" lean-forward="true" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -58,12 +47,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Npolimorfismo/test/DAOTest.java" />
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/test/ErrorTest.java" />
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/error/test/ErrorTest.java" />
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Npolimorfismo/test/PolimorfismoTest.java" />
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/test/CheckdExceptionTest.java" />
-        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/runtimeexception/test/RuntimeExceptionTest.java" />
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/test/CheckedExceptionTest.java" />
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/runtimeexception/test/MultiplasRuntimeExceptionTest.java" />
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/runtimeexception/test/TryWithResourcesTest.java" />
@@ -109,6 +92,12 @@
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/ResolvendoPaths.java" />
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/RelativizarTest.java" />
         <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/AtributosBasicosTest.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/DosFileAttributesTest.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/DosFileAttributesTest.java" />
+        <option value="$PROJECT_DIR$/pasta/subpasta/subpasta/file2.txt" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/DirectoryStreamTest.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/FileVisitorTest.java" />
+        <option value="$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/PathMatcherTest.java" />
       </list>
     </option>
   </component>
@@ -127,17 +116,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-dev-dojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-dev-dojo" type="462c0819:PsiDirectoryNode" />
-              <item name="folder2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
@@ -165,18 +150,36 @@
               <item name="edeploy" type="462c0819:PsiDirectoryNode" />
               <item name="javacore" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-dev-dojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="local" type="462c0819:PsiDirectoryNode" />
+              <item name="edeploy" type="462c0819:PsiDirectoryNode" />
+              <item name="javacore" type="462c0819:PsiDirectoryNode" />
+              <item name="Xnio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-dev-dojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="local" type="462c0819:PsiDirectoryNode" />
+              <item name="edeploy" type="462c0819:PsiDirectoryNode" />
+              <item name="javacore" type="462c0819:PsiDirectoryNode" />
+              <item name="Xnio" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553531966192" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554135860839" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-maratona-jsf" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -207,7 +210,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AtributosBasicosTest">
+  <component name="RunManager" selected="Application.PathMatcherTest">
     <configuration name="AtributosBasicosTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Xnio.test.AtributosBasicosTest" />
       <module name="java-dev-dojo" />
@@ -221,8 +224,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CriandoPathTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Xnio.test.CriandoPathTest" />
+    <configuration name="DirectoryStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Xnio.test.DirectoryStreamTest" />
       <module name="java-dev-dojo" />
       <extension name="coverage">
         <pattern>
@@ -234,8 +237,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NormalizacaoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Xnio.test.NormalizacaoTest" />
+    <configuration name="DosFileAttributesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Xnio.test.DosFileAttributesTest" />
       <module name="java-dev-dojo" />
       <extension name="coverage">
         <pattern>
@@ -247,8 +250,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RelativizarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Xnio.test.RelativizarTest" />
+    <configuration name="FileVisitorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Xnio.test.FileVisitorTest" />
       <module name="java-dev-dojo" />
       <extension name="coverage">
         <pattern>
@@ -260,8 +263,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ResolvendoPaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Xnio.test.ResolvendoPaths" />
+    <configuration name="PathMatcherTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="local.edeploy.javacore.Xnio.test.PathMatcherTest" />
       <module name="java-dev-dojo" />
       <extension name="coverage">
         <pattern>
@@ -274,19 +277,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CriandoPathTest" />
-      <item itemvalue="Application.NormalizacaoTest" />
-      <item itemvalue="Application.ResolvendoPaths" />
-      <item itemvalue="Application.RelativizarTest" />
       <item itemvalue="Application.AtributosBasicosTest" />
+      <item itemvalue="Application.DosFileAttributesTest" />
+      <item itemvalue="Application.DirectoryStreamTest" />
+      <item itemvalue="Application.FileVisitorTest" />
+      <item itemvalue="Application.PathMatcherTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PathMatcherTest" />
+        <item itemvalue="Application.FileVisitorTest" />
+        <item itemvalue="Application.DirectoryStreamTest" />
+        <item itemvalue="Application.DosFileAttributesTest" />
         <item itemvalue="Application.AtributosBasicosTest" />
-        <item itemvalue="Application.RelativizarTest" />
-        <item itemvalue="Application.ResolvendoPaths" />
-        <item itemvalue="Application.NormalizacaoTest" />
-        <item itemvalue="Application.CriandoPathTest" />
       </list>
     </recent_temporary>
   </component>
@@ -304,17 +307,17 @@
       <workItem from="1553185217885" duration="1680000" />
       <workItem from="1553252538902" duration="1484000" />
       <workItem from="1553510636141" duration="9646000" />
+      <workItem from="1554116079709" duration="7584000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21190000" />
+    <option name="totallyTimeSpent" value="28774000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49945828" weight="0.17217484" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49945828" weight="0.15405117" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -324,7 +327,7 @@
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.27193934" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.052004334" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.9674973" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -354,83 +357,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Npolimorfismo/test/PolimorfismoTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/test/CheckedExceptionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/runtimeexception/test/RuntimeExceptionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/runtimeexception/test/MultiplasRuntimeExceptionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/test/TryWithResourcesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/customexception/LoginInvalidoException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/classes/Leitor1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/classes/Leitor2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/test/CustomExceptionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/test/SobrescritaComExceptionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Oexception/checkedexception/classes/Funcionario.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -597,12 +523,12 @@
     <entry file="file://$PROJECT_DIR$/src/teste" />
     <entry file="file://$PROJECT_DIR$/src/messages_en_US.propreties" />
     <entry file="file://$PROJECT_DIR$/src/messages.properties">
-      <provider editor-type-id="ResourceBundle" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
         </state>
       </provider>
+      <provider editor-type-id="ResourceBundle" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Vresourcebundle/test/ResourceBundleTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -615,20 +541,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/messages_pt_BR.properties">
-      <provider editor-type-id="ResourceBundle" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
         </state>
       </provider>
+      <provider editor-type-id="ResourceBundle" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/messages_en_US.properties">
-      <provider editor-type-id="ResourceBundle" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
         </state>
       </provider>
+      <provider editor-type-id="ResourceBundle" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Arquivo.txt" />
     <entry file="file://$PROJECT_DIR$/folder/arquivo.txt">
@@ -751,8 +677,78 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/AtributosBasicosTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="58" column="26" lean-forward="true" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
+        <state relative-caret-position="682">
+          <caret line="65" column="26" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/DosFileAttributesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasta/subpasta/subsubpasta/file.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasta/subpasta/subsubpasta/file2.bkp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasta/subpasta/subsubpasta/file.bkp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasta/arquivo_qualquer.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/nio/file/DirectoryStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="118" column="17" selection-start-line="118" selection-start-column="17" selection-end-line="118" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/nio/file/SimpleFileVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="103" selection-start-line="103" selection-end-line="110" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/FileVisitorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/DirectoryStreamTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local/edeploy/javacore/Xnio/test/PathMatcherTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" column="59" lean-forward="true" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
